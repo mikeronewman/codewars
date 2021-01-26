@@ -8,3 +8,5 @@ Working through Java katas on [codewars](https://www.codewars.com)
 [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131)
 
 [Longes Vowel Chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)
+
+[If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
