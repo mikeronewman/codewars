@@ -10,3 +10,8 @@ Working through Java katas on [codewars](https://www.codewars.com)
 [Longes Vowel Chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)
 
 [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
+
+## Work in Progress
+
+This one passes the given tests but not the random tests.
+[Coloured Triangles](https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111)
