@@ -13,7 +13,11 @@ Working through Java katas on [codewars](https://www.codewars.com)
 
 [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 
+[Multiples of 3 and 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
+
+[Find the Odd Int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
+
 ## Work in Progress
 
-This one passes the given tests but not the random tests.
+This one passes the given tests but not the random tests.\
 [Coloured Triangles](https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111)
