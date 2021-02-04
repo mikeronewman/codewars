@@ -17,6 +17,8 @@ Working through Java katas on [codewars](https://www.codewars.com)
 
 [Find the Odd Int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 
+[Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
+
 ## Work in Progress
 
 This one passes the given tests but not the random tests.\
